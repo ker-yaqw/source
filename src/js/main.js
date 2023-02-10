@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
     "use strict";
 
     let modalState = {};
-    let deadline = '2022-12-11';
+    let deadline = '2026-12-11';
 
     changeModalState(modalState);
     modals();
